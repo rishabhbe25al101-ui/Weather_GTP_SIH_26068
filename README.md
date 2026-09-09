@@ -16,7 +16,7 @@ Built for **Smart India Hackathon (SIH)** under Team **Pixel**.
 
 ## 🚀 Live Demo
 
-* **Live Demo:** [Launch WeatherGPT](https://0e15821d55b89a06c6.gradio.live/)
+* **Live Demo:** [Launch WeatherGPT](https://9518c93e4e80d76f76.gradio.live/)
 
 ---
 
